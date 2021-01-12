@@ -1,6 +1,7 @@
 # Knowledge Tracing for Online Learning
 
-![](pics/knowledge_tracing.png)
+![](pics/knowledge_tracing.PNG)
+
 In a world full of information, data science can help students who don’t have access to personalized learning.
 Knowledge Tracing means modeling of student knowledge over time.
 The goal is to accurately predict how students will perform on future interactions.
