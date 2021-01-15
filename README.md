@@ -10,3 +10,4 @@ These algorithms can be used to make presonalized online learning possible to ev
 [Riiid's EdNet](https://www.ednetchallenge.ai/) data is used for the task. EdNet is the world’s largest open database for AI education containing more than 100 million student interactions.
 It has data of around 1 million students. 
 
+> This project was made as a part of [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction), a Code Competition at Kaggle. The task was given by [Riiid Labs](https://riiidlabs.ai/)
