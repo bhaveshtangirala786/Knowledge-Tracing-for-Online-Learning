@@ -30,6 +30,7 @@ Brief description of the features accumulated in each dictionary
  - **explanation_q_sum** : Number of times an explanation is seen after answering each question
  - **answered_correctly_uq** : Number of times each question is answered by each student
  
+The code for feature engineering is in Riiid Feature Engineering.ipynb
 ## References
 
 The questions were clustered based on the **tags** information to get community feature (https://www.kaggle.com/spacelx/2020-r3id-clustering-question-tags)
