@@ -13,5 +13,21 @@ It has data of around 1 million students.
 ## Data
 [Dataset](https://www.kaggle.com/c/riiid-test-answer-prediction/data)
 
+## Exploratory Data Analysis
+
+<p align="center">
+  <img src="Exploratory%20Data%20Analysis/explanation_imp.png">
+</p>
+
+<p align="center">
+  <img src="Exploratory%20Data%20Analysis/timestamp_imp.png">
+</p>
+
+## Feature Importances
+
+The Feature importance as calculated by LightGBM 
+
+![](Feature%20Importance/LGBM%20Feature%20importance.png)
+
 
 > This project was made as a part of [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction), a Code Competition at Kaggle. The task was given by [Riiid Labs](https://riiidlabs.ai/)
